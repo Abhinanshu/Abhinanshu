@@ -1,8 +1,8 @@
 🔭 I’m currently working on:
-Frontend Development and Cyber Security tools
+Development and Cyber Security tools
 
 👯 I’m looking to collaborate on:
-Frontend projects
+New Technologies
 
 🌱 I’m currently learning:
 Backend Development and Cyber Security
